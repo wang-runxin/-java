@@ -1,3 +1,7 @@
+/*
+这是实现Java弹出window的程序
+*/
+
         import javax.swing.JFrame;
         import java.awt.*;
 
